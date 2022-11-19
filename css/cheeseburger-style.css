@@ -1,0 +1,27 @@
+* { 
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+
+h1 {
+    font-weight: 900;
+    color: rgb(243, 65, 65);
+    text-align: center;
+    font-size: 5rem;
+
+
+}
+
+img {
+    width: 30rem;
+    margin: auto;
+    display: block;
+
+
+}
+
+h2, p, li {
+
+    text-align: left;
+    margin: auto 15% auto 15%;
+}
