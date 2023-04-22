@@ -8,7 +8,7 @@ h1 {
     color: rgb(243, 65, 65);
     text-align: center;
     font-size: 5rem;
-    margin-bottom: 2rem;
+    
 
 
 }
@@ -17,6 +17,12 @@ img {
     width: 30rem;
     margin: auto;
     display: block;
+    border-bottom: 20rem;
+
+}
+
+#addmargin {
+    margin-top: 2rem;
 
 
 }
